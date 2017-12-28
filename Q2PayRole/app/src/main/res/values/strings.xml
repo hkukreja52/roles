@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Q2PayRole</string>
+    <string name="title_activity_view_all_corporate">ViewAllCorporate</string>
+    <string name="layout_manager_linear_layout">android.support.v7.widget.LinearLayoutManager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Transition Tags -->
+    <string name="transition_logo">transition logo</string>
+    <string name="transition_toolbar_layout">transition toolbar layout</string>
+    <string name="transition_card">transition card</string>
+    <!-- Update App -->
+    <string name="update_title">Update Required</string>
+    <string name="update">Update</string>
+    <string name="update_message">You seem to have an outdated version. Please update to proceed</string>
+
+    <string name="bs_header">Select image source</string>
+    <string name="bs_gallery">Select Corporate</string>
+    <string name="bs_camera">Select User</string>
+    <string name="bs_cancel">Cancel</string>
+    <string name="applyfilter">Apply Filter</string>
+    <string name="clearfilter">Clear filter</string>
+</resources>
